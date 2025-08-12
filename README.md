@@ -5,7 +5,7 @@
 Firstly we need an nessus debian file for that. go to nessus website and download the file and whatever email address you are entered your regitration key is there.
 
 ```
-https://www.tenable.com/products/nessus
+https://www.tenable.com/downloads/nessus?utm_source=nessus-trial-thank-you-update&loginAttempted=true
 ```
 
 After downloading go to that directory where file was download.
