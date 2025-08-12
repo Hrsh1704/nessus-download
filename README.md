@@ -62,10 +62,16 @@ now you can see the nessus page.
 <img width="318" height="355" alt="image" src="https://github.com/user-attachments/assets/91b049dc-99fe-4ae6-8c8f-316cd5541e34" />
 - do not check on `register ofline`
 - click on continue
-- 
 
+- then on next page click on ` start a trial of nessus expert. `
 
-## if you forgot password or process will not work then use this command for compltely remove nessus and reinstall it.
+#### now enter your mail address on inbox and click on continue and the ` activation code ` was automatically come. if it's not come then check your mail. you are able to see there.
+
+### now enter your new username and password.
+
+## wait for couple of minutes. it take 30-40 min for complte installation. - it depend on your system.
+
+# if you forgot password or process will not work then use this command for compltely remove nessus and reinstall it.
 ```
 sudo systemctl stop nessusd
 sudo rm -rf /opt/nessus
