@@ -73,7 +73,7 @@ now you can see the nessus page.
 
 ## wait for couple of minutes. it take 30-40 min for complte installation. - it depend on your system.
 
-# if you forgot password or process will not work then use this command for compltely remove nessus and reinstall it.
+# if you forgot password or process will not work then use this command for compltely remove nessus and reinstall from first.
 ```
 sudo systemctl stop nessusd
 sudo rm -rf /opt/nessus
