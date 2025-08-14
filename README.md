@@ -67,6 +67,8 @@ now you can see the nessus page.
 
 #### now enter your mail address on inbox and click on continue and the ` activation code ` was automatically come. if it's not come then check your mail. you are able to see there.
 
+### click on continue. you are redirect on registor page.
+
 ### now enter your new username and password.
 
 ## wait for couple of minutes. it take 30-40 min for complte installation. - it depend on your system.
