@@ -7,15 +7,14 @@ Firstly we need an nessus debian file for that. go to nessus website and downloa
 ```
 https://www.tenable.com/downloads/nessus?utm_source=nessus-trial-thank-you-update&loginAttempted=true
 ```
-
-After downloading go to that directory where file was download.
+Open your terminal. After downloading go to that directory where file was download.
 **ex:/home/kali/Dowmloads**
 
 then use this command.
 
-- PUT YOUR FILE NAME 👇
+- PUT YOUR DOWNLOADED FILE NAME AFTER "dpkg -i" mine was `Nessus-10.9.2-ubuntu1604_amd64.deb`👇
 ```
-dpkg -i Nessus-10.9.2-ubuntu1604_amd64.deb
+dpkg -i <your file name type hear>
 ```
 it will be take couple of seconds.
 
